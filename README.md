@@ -48,7 +48,11 @@ Vaccination Impact: Tracked vaccination data (if available) and its correlation 
 Several visualizations were created to enhance understanding of the data:
 
 Line Graphs: Displayed the trends in daily confirmed cases, recoveries, and deaths over time.
+
 Bar Charts: Compared state-wise cases and testing data.
+
 Heatmaps: Mapped infection rates across different states to show regional disparities.
+
 Pie Charts: Visualized the percentage distribution of cases, recoveries, and deaths.
+
 Pivot Tables: Summarized key statistics like case fatality rate and recovery rate by state.
